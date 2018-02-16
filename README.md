@@ -1,4 +1,5 @@
-CPUMiner-Multi
+bytecoin_Mining_CPU
+
 ==============
 
 This is a multi-threaded CPU miner, fork of [LucasJones](//github.com/lucasjones)' cpuminer-multi.
