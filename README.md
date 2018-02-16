@@ -2,7 +2,7 @@ bytecoin_Mining_CPU
 
 ==============
 
-This is a multi-threaded CPU miner 
+This is a multi-threaded CPU miner  for  bytecoin
 
 #### Table of contents
 
@@ -12,7 +12,6 @@ This is a multi-threaded CPU miner
 * [Build](#build)
 * [Usage instructions](#usage-instructions)
 * [Donations](#donations)
-* [Credits](#credits)
 * [License](#license)
 
 Algorithms
@@ -25,12 +24,7 @@ Dependencies
 * libcurl			http://curl.haxx.se/libcurl/
 * jansson			http://www.digip.org/jansson/ (jansson is included in-tree)
 
-Download
-========
-* For binary releases, see Bitcointalk thread: https://bitcointalk.org/index.php?topic=632724
-* Git tree:   https://github.com/wolf9466/cpuminer-multi
-* Clone with `git clone https://github.com/wolf9466/cpuminer-multi`
-
+ 
 Build
 =====
 
@@ -62,14 +56,8 @@ When the --proxy option is not used, the program honors the http_proxy and all_p
 Donations
 =========
 Donations for the work done in this fork are accepted at
-* XMR: `46sSETXrZGT8bupxdc2MAbLe3PMV9nJTRTE5uaFErXFz6ymyzVdH86KDb9TNoG4ny5QLELfopynWeBSMoT1M2Ga8RBkDqTH`
-* BTC: `1WoLFumNUvjCgaCyjFzvFrbGfDddYrKNR`
-
-Credits
-=======
-This faster CPUMiner-multi was forked from LucasJones', and has been developed by Wolf.
-Special thanks to Intel for helping me with the usage of the AESKEYGENASSIST instruction, which I used to replace the calls to the slow, unoptimized oaes_lib.
-Special thanks also to dga for his code with that loop - since it runs over 500,000 times per hash, it's extremely important.
+* bytecoin: `26LccujsERuA4w7613JpBwFHiWsaYynW75HjCRqHjEx9iANuK6d223JFr6MNqj3PGR4PGXzCGYQw7UemxRoRxCC97o3Gg37`
+ 
 
 License
 =======
