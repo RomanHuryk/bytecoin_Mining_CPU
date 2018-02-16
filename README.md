@@ -2,7 +2,7 @@ bytecoin_Mining_CPU
 
 ==============
 
-This is a multi-threaded CPU miner, fork of [LucasJones](//github.com/lucasjones)' cpuminer-multi.
+This is a multi-threaded CPU miner 
 
 #### Table of contents
 
